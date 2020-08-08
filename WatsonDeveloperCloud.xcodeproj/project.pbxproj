@@ -25,6 +25,21 @@
 		12F800581DF71AD9006851D6 /* WatsonCredentials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6C7B3C1D8C960300CD97FA /* WatsonCredentials.swift */; };
 		12F8005C1DF71BA1006851D6 /* Discovery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F8005B1DF71BA1006851D6 /* Discovery.swift */; };
 		12F8005E1DF71BED006851D6 /* DiscoveryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F8005D1DF71BED006851D6 /* DiscoveryTests.swift */; };
+		2C6E818624DEB50F00131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818724DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818824DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818924DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818A24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818B24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818C24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818D24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818E24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E818F24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E819024DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E819124DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E819224DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E819324DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */ = {isa = PBXBuildFile; fileRef = 2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */; };
+		2C6E819924DEB58C00131AB7 /* IBMSwiftSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */; };
 		5F2C5BE622E9FA0900A7628D /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2C5BE322E9FA0900A7628D /* SearchResult.swift */; };
 		5F2C5BE722E9FA0900A7628D /* SearchResultHighlight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2C5BE422E9FA0900A7628D /* SearchResultHighlight.swift */; };
 		5F2C5BE822E9FA0900A7628D /* SearchResultMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2C5BE522E9FA0900A7628D /* SearchResultMetadata.swift */; };
@@ -360,7 +375,6 @@
 		7E48B6B7233535A70009F2B7 /* FedQueryLarge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E48B6B6233535A60009F2B7 /* FedQueryLarge.swift */; };
 		7E48B6B9233539EB0009F2B7 /* IBMSwiftSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */; };
 		7E48B6BA233539EB0009F2B7 /* IBMSwiftSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */; };
-		7E48B6BB233539EB0009F2B7 /* IBMSwiftSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */; };
 		7E48B6BC233539EB0009F2B7 /* IBMSwiftSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */; };
 		7E48B6BD233539EB0009F2B7 /* IBMSwiftSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */; };
 		7E48B6BE233539EB0009F2B7 /* IBMSwiftSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */; };
@@ -1020,6 +1034,7 @@
 		12F800481DF71921006851D6 /* DiscoveryV1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DiscoveryV1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		12F8005B1DF71BA1006851D6 /* Discovery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Discovery.swift; sourceTree = "<group>"; };
 		12F8005D1DF71BED006851D6 /* DiscoveryTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscoveryTests.swift; sourceTree = "<group>"; };
+		2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IBMSwiftSDKCore.h; path = "../Carthage/Carthage/Checkouts/swift-sdk-core/Sources/Supporting Files/IBMSwiftSDKCore.h"; sourceTree = "<group>"; };
 		5F2C5BE322E9FA0900A7628D /* SearchResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 		5F2C5BE422E9FA0900A7628D /* SearchResultHighlight.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchResultHighlight.swift; sourceTree = "<group>"; };
 		5F2C5BE522E9FA0900A7628D /* SearchResultMetadata.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchResultMetadata.swift; sourceTree = "<group>"; };
@@ -1919,7 +1934,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E48B6BB233539EB0009F2B7 /* IBMSwiftSDKCore.framework in Frameworks */,
+				2C6E819924DEB58C00131AB7 /* IBMSwiftSDKCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2439,6 +2454,7 @@
 			isa = PBXGroup;
 			children = (
 				7E48B6B8233539EB0009F2B7 /* IBMSwiftSDKCore.framework */,
+				2C6E818524DEB50F00131AB7 /* IBMSwiftSDKCore.h */,
 				68DA5E862071E41700817741 /* CoreML.framework */,
 				68A0EEE72006D22700E58658 /* Starscream.framework */,
 			);
@@ -3181,6 +3197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1241DFCD1E3810BF00B8B33E /* NaturalLanguageUnderstandingV1.h in Headers */,
+				2C6E818D24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3192,6 +3209,7 @@
 				92064609212E2880004ACCC9 /* ogg.h in Headers */,
 				92064611212E2880004ACCC9 /* opus_header.h in Headers */,
 				9206460D212E2880004ACCC9 /* opus_multistream.h in Headers */,
+				2C6E819024DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 				124C2E241D19E31600D9F602 /* TextToSpeechV1.h in Headers */,
 				92064615212E2880004ACCC9 /* os_types.h in Headers */,
 				92064617212E2880004ACCC9 /* opus_defines.h in Headers */,
@@ -3204,6 +3222,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				12F800501DF71922006851D6 /* DiscoveryV1.h in Headers */,
+				2C6E818924DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3212,6 +3231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6800FC9D2056D76F0078788A /* AssistantV1.h in Headers */,
+				2C6E818624DEB50F00131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3220,6 +3240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A6711901DD0EEEB0070CA9D /* PersonalityInsightsV3.h in Headers */,
+				2C6E818E24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3228,6 +3249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AAAF5C11CEEA6CB00B74848 /* VisualRecognitionV3.h in Headers */,
+				2C6E819224DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3236,6 +3258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AAAF5C01CEEA6C800B74848 /* ToneAnalyzerV3.h in Headers */,
+				2C6E819124DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3250,6 +3273,7 @@
 				92064614212E2880004ACCC9 /* os_types.h in Headers */,
 				92064616212E2880004ACCC9 /* opus_defines.h in Headers */,
 				92064606212E2880004ACCC9 /* opus.h in Headers */,
+				2C6E818F24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3258,6 +3282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AAAF5BB1CEEA6B400B74848 /* NaturalLanguageClassifierV1.h in Headers */,
+				2C6E818C24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3266,6 +3291,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EC4FF9A2379E51C00F9A970 /* DiscoveryV2.h in Headers */,
+				2C6E818A24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3274,6 +3300,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7ED751FD233BE94E0050A2EB /* VisualRecognitionV3.h in Headers */,
+				2C6E819324DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3282,6 +3309,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				924EE7EA21505E430048C0E5 /* AssistantV2.h in Headers */,
+				2C6E818724DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3290,6 +3318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				928661A92191109D0064C6FD /* CompareComplyV1.h in Headers */,
+				2C6E818824DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3298,6 +3327,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAD2687D20CB0196002BA2C4 /* LanguageTranslatorV3.h in Headers */,
+				2C6E818B24DEB51000131AB7 /* IBMSwiftSDKCore.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
